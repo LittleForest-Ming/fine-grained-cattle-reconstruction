@@ -65,7 +65,7 @@ These are component-level references; compatibility of a combined environment an
 
 ## Availability
 
-Publication information and any future public releases will be announced in this repository. No release date is committed at this stage.
+Publication information and any future public releases will be announced in this repository.
 
 ## License
 
