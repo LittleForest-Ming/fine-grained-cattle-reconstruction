@@ -52,11 +52,11 @@ The following resources introduce relevant publicly available technologies. Proj
 
 ## Environment guidance
 
-These notes summarize public upstream requirements, checked on 3 November 2026. Use a separate environment for each component and follow the documentation for the selected release.
+These notes summarize public upstream requirements. Use a separate environment for each component and follow the documentation for the selected release.
 
 | Component | Upstream environment guidance | Setup reference |
 | :--- | :--- | :--- |
-| TRELLIS.2 | Upstream-tested platform: Linux. An NVIDIA GPU with at least 24 GB VRAM is listed; CUDA Toolkit 12.4 is recommended. The default setup uses PyTorch 2.6.0 with CUDA 12.4. | [Prerequisites and installation](https://github.com/microsoft/TRELLIS.2/blob/main/README.md) |
+| TRELLIS.2 | Upstream-tested platform: Linux; Windows is supported via a community-maintained configuration using pre-built CUDA wheels and an automatic SDPA attention fallback. CUDA Toolkit 12.4 is recommended. The default setup uses PyTorch 2.6.0 with CUDA 12.4. | [Prerequisites and installation](https://github.com/microsoft/TRELLIS.2/blob/main/README.md) |
 | Ultralytics | The quickstart lists Python >= 3.8 and PyTorch >= 1.8. Select a compatible PyTorch build before installing Ultralytics; individual releases may impose additional requirements. | [Installation guide](https://docs.ultralytics.com/quickstart/) |
 | PyTorch / CUDA | Match the operating system, Python version, GPU driver, and CUDA-enabled PyTorch build using the official installation guidance. | [PyTorch](https://pytorch.org/get-started/locally/) / [NVIDIA CUDA](https://docs.nvidia.com/cuda/) |
 | SMAL | Obtain model assets through the official site and follow the requirements of the chosen implementation and the model's own access and license terms. | [Model access](https://smal.is.tue.mpg.de/) |
