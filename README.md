@@ -61,7 +61,7 @@ These notes summarize public upstream requirements. Use a separate environment f
 | PyTorch / CUDA | Match the operating system, Python version, GPU driver, and CUDA-enabled PyTorch build using the official installation guidance. | [PyTorch](https://pytorch.org/get-started/locally/) / [NVIDIA CUDA](https://docs.nvidia.com/cuda/) |
 | SMAL | Obtain model assets through the official site and follow the requirements of the chosen implementation and the model's own access and license terms. | [Model access](https://smal.is.tue.mpg.de/) |
 
-These are component-level references; compatibility of a combined environment and a runnable release of this research are not provided here. Third-party code and model assets retain their respective licenses.
+These are component-level references; compatibility of a combined environment is not provided here. Third-party code and model assets retain their respective licenses.
 
 ## Availability
 
