@@ -4,7 +4,7 @@
 
 **Single-view RGB-D research for cattle shape representation**
 
-Project overview · Geometry preview · Environment notes
+Project overview
 
 </div>
 
@@ -12,12 +12,12 @@ Project overview · Geometry preview · Environment notes
 
 This project investigates three-dimensional cattle body reconstruction from a single RGB-D observation. The research aims to represent overall body shape and local surface structure, with potential applications in non-contact livestock phenotyping and digital animal modeling.
 
-**Status: ongoing, unpublished research.** This repository currently provides a brief introduction, selected geometry previews, and general environment information. Research code, datasets, model weights, methodological details, and quantitative experiments are not included in this public preview.
+**Status: ongoing, unpublished research.** This repository currently provides a brief introduction, selected geometry previews, and general environment information.
 
 ## Geometry preview
 
 <p align="center">
-  <img src="assets/preview_camera.png" alt="Cattle mesh rendered from the input camera viewpoint" width="420">
+  <img src="assets/preview_camera.png" alt="Cattle mesh rendered from the input camera viewpoint" width="220">
   <br>
   <em>Mesh preview from the input camera viewpoint.</em>
 </p>
@@ -38,7 +38,6 @@ For calibrated RGB-D research, the basic input information consists of:
 
 - An RGB image and its corresponding depth map.
 - Camera intrinsics and a known spatial correspondence between RGB and depth.
-- Explicit depth units and a definition of invalid depth values.
 
 ## Public technology references
 
