@@ -24,7 +24,7 @@ This project investigates three-dimensional cattle body reconstruction from a si
 
 The following images show the same example geometry from additional viewpoints; they do not represent additional input images.
 
-| Side view | Top view |
+| **Side view** | **Top view** |
 | :---: | :---: |
 | <img src="assets/preview_side.png" alt="Side view of the cattle mesh" width="220"> | <img src="assets/preview_top.png" alt="Top view of the cattle mesh" width="220"> |
 | **Oblique view** | **Opposite-side view** |
