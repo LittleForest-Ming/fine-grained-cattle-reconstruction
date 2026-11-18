@@ -16,7 +16,7 @@ This project investigates three-dimensional cattle body reconstruction from a si
 
 ## RGB-D sample clips
 
-**[Download Data.zip (112.6 MiB)](https://github.com/LittleForest-Ming/fine-grained-cattle-reconstruction/releases/download/rgbd-samples-20261118/Data.zip)**
+**[Download Data.zip](https://github.com/LittleForest-Ming/fine-grained-cattle-reconstruction/releases/download/rgbd-samples-20261118/Data.zip)**
 
 The archive contains a subset of synchronized RGB-D clips in MKV format. [View the release page](https://github.com/LittleForest-Ming/fine-grained-cattle-reconstruction/releases/tag/rgbd-samples-20261118).
 
